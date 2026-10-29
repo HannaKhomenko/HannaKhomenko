@@ -2,7 +2,7 @@
 
 ---
 
-### I'm a Data Analyst with 15+ years of experience in market research, business reporting, and data-driven decision support.
+<b> I'm a Data Analyst with 15+ years of experience in market research, business reporting, and data-driven decision support.<b/>
 
 - 📈 **What I analyze:** market trends, pricing, competitor performance, and product data, to support business strategy
 - 🛠️ **How I do it:** Excel, Google Sheets, SQL, Power BI, Tableau, Python in hands-on analytical projects
@@ -10,7 +10,7 @@
 - 💡 **My focus:** translating complex data into actionable business insights
 
 
-#### Tech Stack:
+#### Tech Stack
 
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#tech-stack)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](#tech-stack)
@@ -20,7 +20,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#tech-stack)
 [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](#tech-stack)
 
-#### Contact Me:
+#### Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/hanna-khomenko-analytics/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanna.khomenko.data@gmail.com)
