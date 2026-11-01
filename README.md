@@ -20,6 +20,11 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#tech-stack)
 [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](#tech-stack)
 
+#### Featured Projects
+
+**[User Retention Rate & Cohort Analysis](https://github.com/HannaKhomenko/cohort-retention-analysis)**<br>
+SQL · Google Sheets · Cohort analysis of promo vs. organic users. Found that organic users keep over 50% retention in month 5, while promo users fall below 10%.
+
 #### Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/hanna-khomenko-analytics/)
