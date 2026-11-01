@@ -22,8 +22,11 @@
 
 #### Featured Projects
 
+**[Marketing Performance Dashboard](https://github.com/HannaKhomenko/marketing-dashboard-tableau)**<br>
+SQL · Tableau · Facebook and Google Ads dashboard with CTR, CPC, CPL, ROMI and a metric switcher. ROMI is 122%, but "Brand" and "Expansion" campaigns have the highest cost per lead.
+
 **[User Retention Rate & Cohort Analysis](https://github.com/HannaKhomenko/cohort-retention-analysis)**<br>
-SQL · Google Sheets · Cohort analysis of promo vs. organic users. Found that organic users keep over 50% retention in month 5, while promo users fall below 10%.
+SQL · Google Sheets · Cohort analysis of promo vs. organic users. Organic users keep over 50% retention in month 5, while promo users fall below 10%.
 
 **[School Gradebook Analytics Dashboard](https://github.com/HannaKhomenko/school-gradebook-powerbi)**<br>
 Power BI · Power Query · DAX · Four-page dashboard on a star schema model: grades by class and subject, month-over-month change, forecast and drill-through by student.
