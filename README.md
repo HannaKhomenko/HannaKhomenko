@@ -25,6 +25,9 @@
 **[User Retention Rate & Cohort Analysis](https://github.com/HannaKhomenko/cohort-retention-analysis)**<br>
 SQL · Google Sheets · Cohort analysis of promo vs. organic users. Found that organic users keep over 50% retention in month 5, while promo users fall below 10%.
 
+**[School Gradebook Analytics Dashboard](https://github.com/HannaKhomenko/school-gradebook-powerbi)**<br>
+Power BI · Power Query · DAX · Four-page dashboard on a star schema model: grades by class and subject, month-over-month change, forecast and drill-through by student.
+
 #### Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/hanna-khomenko-analytics/)
