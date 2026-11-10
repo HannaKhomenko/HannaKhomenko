@@ -26,7 +26,7 @@
 SQL · Tableau · Facebook and Google Ads dashboard with CTR, CPC, CPL, ROMI and a metric switcher. ROMI is 122%, but "Brand" and "Expansion" campaigns have the highest cost per lead.
 
 **[User Retention Rate & Cohort Analysis](https://github.com/HannaKhomenko/cohort-retention-analysis)**<br>
-SQL · Google Sheets · Cohort analysis of promo vs. organic users. Organic users keep over 50% retention in month 5, while promo users fall below 10%.
+Cohort retention and LTV analysis of promo vs. organic users with SQL, Google Sheets and [Tableau Public dashboard](https://public.tableau.com/app/profile/hanna.khomenko/viz/UserRetentionLTVAnalysis/UserRetentionLTVAnalysis). By month 5, organic users retain 55.7% vs. 8.8% for promo and generate about 2.5× more revenue per user ($6.58 vs. $2.65).
 
 **[School Gradebook Analytics Dashboard](https://github.com/HannaKhomenko/school-gradebook-powerbi)**<br>
 Power BI · Power Query · DAX · Four-page dashboard on a star schema model: grades by class and subject, month-over-month change, forecast and drill-through by student.
